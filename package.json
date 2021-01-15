@@ -3,7 +3,7 @@
     "name": "Patrik Simek",
     "url": "https://patriksimek.cz"
   },
-  "name": "vm2",
+  "name": "@mafintosh/vm2",
   "description": "vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!",
   "keywords": [
     "sandbox",
